@@ -22,7 +22,7 @@ const handleUserInput = function (key) {
   } else if (key === 'd') {
     connection.write("Move: right");
   } else if (key === 'f') {
-    connection.write("Say: dyl")
+    connection.write("Say: henlo")
   }
 };
 
